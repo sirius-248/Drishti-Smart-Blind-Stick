@@ -127,7 +127,7 @@ The publication documents the motivation, architecture, hardware and experimenta
 
 ## Team
 
-**Shashank Ravindra · B Abhitha Bhat · Gaurav S B · Ananya Raghuveer · Nandita Bangera**
+** Gaurav S B · B Abhitha Bhat ·  Ananya Raghuveer · Shashank Ravindra · Nandita Bangera**
 
 *Developed as an academic research and engineering project at RV Institute of Technology and Management, Bengaluru.*
 
